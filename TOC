@@ -1,0 +1,45 @@
+Topics
+
+Data Types
+Data Types Conversion
+------completed
+
+Classes and Objects
+Methods and types
+Variables and types
+static
+
+
+constructor
+this
+naming conventions
+
+Looping 
+for, if, switch, do while
+
+Strings
+String buffer and builder
+string methods
+
+OOPS
+Inheritance
+Polymorphism
+Abstraction and Interfaces
+Encapsulation
+
+Array
+
+Collections
+ArrayLsit
+Linked List
+Hashset
+hasmap
+
+FilaHandling
+Reading
+Writing
+Apache POI to reac excel file
+
+Exception Handling
+try catch block finally
+
