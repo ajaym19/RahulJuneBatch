@@ -15,17 +15,23 @@ naming conventions
 
 Looping 
 for, if, switch, do while
-------completed
+
 
 OOPS
 Inheritance
 Polymorphism
+
+
+
 Abstraction and Interfaces
 Encapsulation
 
 Strings
 String buffer and builder
 string methods
+
+
+------completed
 
 Array
 
@@ -35,7 +41,7 @@ Linked List
 Hashset
 hasmap
 
-FilaHandling
+File Handling
 Reading
 Writing
 Apache POI to reac excel file

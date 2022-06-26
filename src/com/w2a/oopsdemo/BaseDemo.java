@@ -2,7 +2,7 @@ package com.w2a.oopsdemo;
 
 public class BaseDemo extends GrandParent {
 
-	public void markAttendance() {
+	public  void markAttendance() {
 		System.out.println("Marking Attendance");
 	}
 	
