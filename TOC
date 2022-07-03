@@ -21,8 +21,6 @@ OOPS
 Inheritance
 Polymorphism
 
-
-
 Abstraction and Interfaces
 Encapsulation
 
@@ -36,7 +34,7 @@ string methods
 Array
 
 Collections
-ArrayLsit
+ArrayList
 Linked List
 Hashset
 hasmap
