@@ -2,6 +2,7 @@ package com.w2a.collectionsdemo;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 public class ArrayListDemo {
 
@@ -102,6 +103,7 @@ public class ArrayListDemo {
 		 * IP: [23,34,23,12,23]
 		 * OP: [23,34,12]
 		 */
+		
 		
 	}
 }
